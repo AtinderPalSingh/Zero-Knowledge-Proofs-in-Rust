@@ -1,4 +1,5 @@
 # Zero-Knowledge-Proofs-in-Rust
+**iN progresss**)
 Project Description:
 
 This GitHub project showcases a powerful implementation of the Zero-Knowledge Proof concept in the Rust programming language. Zero-Knowledge Proofs are a cryptographic technique that allows one party, the Prover, to convince another party, the Verifier, of the truth of a statement without revealing any information beyond the validity of the statement. In this project, we'll dive into a practical example that demonstrates this concept by utilizing finite fields, public parameters, and secret values.
